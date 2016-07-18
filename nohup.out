@@ -1,0 +1,6 @@
+[W 12:52:17.009 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 12:52:17.021 NotebookApp] Serving notebooks from local directory: /home/jupuser/source
+[I 12:52:17.021 NotebookApp] 0 active kernels 
+[I 12:52:17.021 NotebookApp] The Jupyter Notebook is running at: http://[all ip addresses on your system]:9999/
+[I 12:52:17.021 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 12:52:31.044 NotebookApp] 302 GET / (188.34.146.105) 2.81ms
