@@ -348,3 +348,144 @@ WARNING:root:kernel 108e38b5-fbff-43fd-a7e7-b87c3e46bd7c restarted
 [I 01:58:01.598 NotebookApp] Terminal 1 closed
 [I 01:58:01.599 NotebookApp] Shutting down kernels
 [I 01:58:01.601 NotebookApp] Kernel shutdown: 108e38b5-fbff-43fd-a7e7-b87c3e46bd7c
+[W 02:06:01.561 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 02:06:01.575 NotebookApp] Serving notebooks from local directory: /home/jupuser/source
+[I 02:06:01.575 NotebookApp] 0 active kernels 
+[I 02:06:01.575 NotebookApp] The Jupyter Notebook is running at: http://[all ip addresses on your system]:9999/
+[I 02:06:01.575 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 02:06:10.165 NotebookApp] 404 GET /api/kernels/108e38b5-fbff-43fd-a7e7-b87c3e46bd7c/channels?session_id=04A3303631AF4A6EA5215E12C0B886AF (81.31.173.196): Kernel does not exist: 108e38b5-fbff-43fd-a7e7-b87c3e46bd7c
+[W 02:06:10.204 NotebookApp] 404 GET /api/kernels/108e38b5-fbff-43fd-a7e7-b87c3e46bd7c/channels?session_id=04A3303631AF4A6EA5215E12C0B886AF (81.31.173.196) 50.60ms referer=None
+[W 02:06:25.474 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160723020601 (81.31.173.196) 3.54ms referer=http://192.241.158.70:9999/notebooks/Amirhossein%20Rajabi/Untitled.ipynb
+[I 02:06:25.863 NotebookApp] Kernel started: 4f3172c8-0498-4911-a718-100b883a06b0
+[I 02:08:26.129 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 02:10:30.330 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 02:14:26.935 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 02:16:26.129 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 02:18:26.817 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[W 02:23:57.900 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160723020601 (2.191.1.57) 5.32ms referer=http://192.241.158.70:9999/notebooks/Amirhossein%20Rajabi/crawler.ipynb
+[I 02:24:00.691 NotebookApp] Kernel started: 1fd341f5-94c8-4567-a6ca-eb98dfcf1f5d
+[W 02:34:02.665 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160723020601 (81.31.173.196) 4.71ms referer=http://192.241.158.70:9999/notebooks/Amirhossein%20Rajabi/crawler.ipynb
+[I 02:34:37.819 NotebookApp] Creating new notebook in /Amirhossein Rajabi
+[I 02:34:41.186 NotebookApp] Kernel started: 1de8a324-ac29-4016-bdac-6c30fd7e3f7e
+[W 02:34:41.670 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160723020601 (81.31.173.196) 2.07ms referer=http://192.241.158.70:9999/notebooks/Amirhossein%20Rajabi/Untitled.ipynb?kernel_name=python3
+[I 02:36:06.421 NotebookApp] Saving file at /Amirhossein Rajabi/crawler.ipynb
+[I 02:36:41.308 NotebookApp] Saving file at /Amirhossein Rajabi/Untitled.ipynb
+[I 02:38:40.933 NotebookApp] Saving file at /Amirhossein Rajabi/Untitled.ipynb
+[W 02:40:42.083 NotebookApp] WebSocket ping timeout after 119775 ms.
+[W 02:40:56.920 NotebookApp] WebSocket ping timeout after 119812 ms.
+[W 02:41:05.583 NotebookApp] WebSocket ping timeout after 119822 ms.
+[I 02:42:41.273 NotebookApp] Saving file at /Amirhossein Rajabi/Untitled.ipynb
+[I 02:42:46.143 NotebookApp] Kernel restarted: 1de8a324-ac29-4016-bdac-6c30fd7e3f7e
+[I 02:44:41.159 NotebookApp] Saving file at /Amirhossein Rajabi/Untitled.ipynb
+[I 02:46:41.160 NotebookApp] Saving file at /Amirhossein Rajabi/Untitled.ipynb
+[I 02:48:41.087 NotebookApp] Saving file at /Amirhossein Rajabi/Untitled.ipynb
+[I 02:50:41.800 NotebookApp] Saving file at /Amirhossein Rajabi/Untitled.ipynb
+[I 02:52:27.183 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[W 02:53:32.741 NotebookApp] WebSocket ping timeout after 113039 ms.
+[I 02:54:27.364 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 02:56:27.840 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 02:56:41.577 NotebookApp] Saving file at /Amirhossein Rajabi/Untitled.ipynb
+[I 02:58:41.503 NotebookApp] Saving file at /Amirhossein Rajabi/Untitled.ipynb
+[I 03:00:41.777 NotebookApp] Saving file at /Amirhossein Rajabi/Untitled.ipynb
+[I 03:02:41.477 NotebookApp] Saving file at /Amirhossein Rajabi/Untitled.ipynb
+[I 03:04:41.213 NotebookApp] Saving file at /Amirhossein Rajabi/Untitled.ipynb
+[I 03:06:45.400 NotebookApp] Saving file at /Amirhossein Rajabi/Untitled.ipynb
+[I 03:14:44.170 NotebookApp] Saving file at /Amirhossein Rajabi/Untitled.ipynb
+[I 03:16:18.114 NotebookApp] Saving file at /dataset/stopwords.csv
+[I 03:16:22.109 NotebookApp] Saving file at /dataset/stopwords.csv
+[I 03:16:45.629 NotebookApp] Saving file at /Amirhossein Rajabi/Untitled.ipynb
+[I 03:32:13.297 NotebookApp] Kernel started: 244c9eb3-43d7-4001-ba2e-f85aa5a009d0
+[I 03:32:14.332 NotebookApp] Kernel shutdown: 1de8a324-ac29-4016-bdac-6c30fd7e3f7e
+[I 03:38:31.852 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 03:40:29.143 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 03:42:29.439 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 03:53:43.913 NotebookApp] Saving file at /Amirhossein Rajabi/crawler.ipynb
+[W 04:01:57.394 NotebookApp] /home/jupuser/source/dataset/tagger/postagger.model is not UTF-8 encoded
+[W 04:01:57.395 NotebookApp] 400 GET /api/contents/dataset/tagger/postagger.model?type=file&format=text&_=1469260912288 (81.31.173.0) 302.85ms referer=http://192.241.158.70:9999/edit/dataset/tagger/postagger.model
+[I 04:05:46.487 NotebookApp] Kernel shutdown: 4f3172c8-0498-4911-a718-100b883a06b0
+[I 04:05:53.368 NotebookApp] Kernel shutdown: 1fd341f5-94c8-4567-a6ca-eb98dfcf1f5d
+[I 04:05:55.169 NotebookApp] Kernel shutdown: 244c9eb3-43d7-4001-ba2e-f85aa5a009d0
+[W 04:06:00.804 NotebookApp] Session not found: session_id='b27d2a0f-7f6b-4eb0-8a90-e68b91ed386d'
+[W 04:06:00.806 NotebookApp] 404 DELETE /api/sessions/b27d2a0f-7f6b-4eb0-8a90-e68b91ed386d (81.31.173.0) 2.49ms referer=http://192.241.158.70:9999/tree/Amirhossein%20Rajabi
+[W 04:06:05.524 NotebookApp] Session not found: session_id='fd353535-57c4-4fd2-9430-8147d9ffc74f'
+[W 04:06:05.526 NotebookApp] 404 DELETE /api/sessions/fd353535-57c4-4fd2-9430-8147d9ffc74f (81.31.173.0) 2.45ms referer=http://192.241.158.70:9999/tree/Amirhossein%20Rajabi
+[W 04:06:07.366 NotebookApp] Session not found: session_id='c9fb6f32-909e-4160-918d-8298ab43143c'
+[W 04:06:07.367 NotebookApp] 404 DELETE /api/sessions/c9fb6f32-909e-4160-918d-8298ab43143c (81.31.173.0) 2.06ms referer=http://192.241.158.70:9999/tree/Amirhossein%20Rajabi
+[W 04:15:15.232 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160723020601 (2.191.1.57) 4.27ms referer=http://192.241.158.70:9999/notebooks/Amirhossein%20Rajabi/crawler.ipynb
+[W 04:15:27.953 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160723020601 (2.191.1.57) 3.97ms referer=http://192.241.158.70:9999/notebooks/Amirhossein%20Rajabi/crawler.ipynb
+[I 04:15:36.867 NotebookApp] Kernel started: acdb15c6-1dc0-4582-bfd9-ea754bb4513f
+[W 04:21:00.018 NotebookApp] WebSocket ping timeout after 119543 ms.
+[W 05:53:54.481 NotebookApp] 404 GET /api/kernels/4f3172c8-0498-4911-a718-100b883a06b0/channels?session_id=9BCC853066A040148F18ED59D6526BBB (81.31.178.82): Kernel does not exist: 4f3172c8-0498-4911-a718-100b883a06b0
+[W 05:53:54.485 NotebookApp] 404 GET /api/kernels/4f3172c8-0498-4911-a718-100b883a06b0/channels?session_id=9BCC853066A040148F18ED59D6526BBB (81.31.178.82) 17.06ms referer=None
+[W 05:55:02.140 NotebookApp] Replacing stale connection: 4f3172c8-0498-4911-a718-100b883a06b0:9BCC853066A040148F18ED59D6526BBB
+[W 06:00:48.698 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160723020601 (81.31.178.82) 4.56ms referer=http://192.241.158.70:9999/notebooks/Amirhossein%20Rajabi/crawler.ipynb
+[W 07:34:13.921 NotebookApp] WebSocket ping timeout after 119298 ms.
+[I 07:57:26.003 NotebookApp] 302 GET / (81.31.175.75) 2.68ms
+[W 07:57:42.566 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160723020601 (81.31.175.75) 3.47ms referer=http://192.241.158.70:9999/notebooks/Amirhossein%20Rajabi/PreProcessing%20Testing.ipynb
+[I 07:57:43.603 NotebookApp] Kernel started: 7c3e0dbe-a2a6-425c-9f23-8637deef6b38
+error: cannot open input model file: resources/postagger.model
+	<No such file or directory>
+[I 07:58:58.594 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 7c3e0dbe-a2a6-425c-9f23-8637deef6b38 restarted
+[I 07:59:43.938 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 08:01:44.611 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 08:03:44.840 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 08:24:49.004 NotebookApp] 302 GET / (81.31.175.171) 2.37ms
+[I 08:24:49.681 NotebookApp] 302 GET / (81.31.175.171) 1.07ms
+[I 08:25:00.239 NotebookApp] Kernel shutdown: acdb15c6-1dc0-4582-bfd9-ea754bb4513f
+[I 08:25:02.544 NotebookApp] Kernel shutdown: 7c3e0dbe-a2a6-425c-9f23-8637deef6b38
+[W 10:41:52.848 NotebookApp] 404 GET http://httpheader.net/ (80.82.70.24) 7.91ms referer=None
+[W 13:16:47.077 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (94.102.49.174) 7.35ms referer=None
+[I 00:18:16.446 NotebookApp] 302 GET / (213.233.188.28) 1.93ms
+[I 00:18:16.791 NotebookApp] 302 GET / (213.233.188.28) 0.89ms
+[W 00:18:46.443 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160723020601 (213.233.188.28) 4.62ms referer=http://192.241.158.70:9999/notebooks/Amirhossein%20Rajabi/Summarize.ipynb
+[I 00:18:47.217 NotebookApp] Kernel started: 337ab642-c513-47c7-b2dc-00f776794d28
+[W 00:19:09.018 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160723020601 (213.233.188.28) 3.02ms referer=http://192.241.158.70:9999/notebooks/Amirhossein%20Rajabi/crawler.ipynb
+[I 00:19:09.875 NotebookApp] Kernel started: a7304b96-a6d4-4367-8cd9-751d0e0085bc
+[I 00:21:10.281 NotebookApp] Saving file at /Amirhossein Rajabi/crawler.ipynb
+[I 00:23:10.258 NotebookApp] Saving file at /Amirhossein Rajabi/crawler.ipynb
+[I 00:25:10.296 NotebookApp] Saving file at /Amirhossein Rajabi/crawler.ipynb
+[I 00:27:10.078 NotebookApp] Saving file at /Amirhossein Rajabi/crawler.ipynb
+WARNING:lda:all zero row in document-term matrix found
+[W 00:30:40.951 NotebookApp] WebSocket ping timeout after 119771 ms.
+[W 00:30:48.597 NotebookApp] WebSocket ping timeout after 119774 ms.
+[I 00:45:04.612 NotebookApp] Saving file at /Amirhossein Rajabi/crawler.ipynb
+[W 00:51:40.551 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160723020601 (194.225.46.254) 6.06ms referer=http://192.241.158.70:9999/notebooks/Amirhossein%20Rajabi/crawler.ipynb
+WARNING:lda:all zero row in document-term matrix found
+[I 00:53:42.533 NotebookApp] Saving file at /Amirhossein Rajabi/crawler.ipynb
+[I 00:57:55.470 NotebookApp] Kernel shutdown: 337ab642-c513-47c7-b2dc-00f776794d28
+[I 00:57:57.474 NotebookApp] Kernel shutdown: a7304b96-a6d4-4367-8cd9-751d0e0085bc
+[W 01:22:06.134 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160723020601 (81.31.179.150) 5.92ms referer=http://192.241.158.70:9999/notebooks/Amirhossein%20Rajabi/crawler.ipynb
+[I 01:22:09.320 NotebookApp] Kernel started: 7e355c0b-718d-46d4-ae8f-1e5ae16a9bda
+[W 01:23:13.022 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160723020601 (81.31.179.150) 3.01ms referer=http://192.241.158.70:9999/notebooks/Amirhossein%20Rajabi/crawler.ipynb
+[I 01:24:47.869 NotebookApp] 302 GET / (81.31.175.143) 0.78ms
+[I 01:24:49.003 NotebookApp] 302 GET / (81.31.175.143) 0.97ms
+[I 01:25:15.893 NotebookApp] Saving file at /Amirhossein Rajabi/crawler.ipynb
+[W 01:25:19.411 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160723020601 (81.31.175.143) 2.53ms referer=http://192.241.158.70:9999/notebooks/Amirhossein%20Rajabi/crawler.ipynb
+[I 01:28:52.815 NotebookApp] Saving file at /Amirhossein Rajabi/crawler.ipynb
+[W 01:38:35.007 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160723020601 (81.31.175.143) 5.16ms referer=http://192.241.158.70:9999/notebooks/Amirhossein%20Rajabi/PreProcessing%20Testing.ipynb
+[I 01:38:35.579 NotebookApp] Kernel started: 1c767684-e359-4da2-872e-34810410209e
+[W 01:39:20.776 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160723020601 (81.31.175.143) 4.76ms referer=http://192.241.158.70:9999/notebooks/Amirhossein%20Rajabi/crawler.ipynb
+[I 01:40:35.769 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 01:41:49.087 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[W 01:46:12.931 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160723020601 (81.31.179.150) 5.14ms referer=http://192.241.158.70:9999/notebooks/Amirhossein%20Rajabi/crawler.ipynb
+[I 01:46:26.519 NotebookApp] 302 GET /notebooks (81.31.179.150) 2.15ms
+[W 01:46:44.017 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160723020601 (81.31.179.150) 3.18ms referer=http://192.241.158.70:9999/notebooks/Nasim%20Damirchi/Untitled1.ipynb
+[I 01:46:44.258 NotebookApp] Kernel started: dfc96ad4-a349-426b-9fd4-6e4fcf93fcc0
+[I 01:48:44.595 NotebookApp] Saving file at /Nasim Damirchi/Untitled1.ipynb
+[I 01:56:37.352 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 01:58:38.106 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 02:06:38.222 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 02:14:37.323 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 02:16:37.984 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 02:18:38.322 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 02:20:38.358 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 02:22:38.176 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[I 02:23:08.249 NotebookApp] New terminal with automatic name: 1
+[W 02:43:44.712 NotebookApp] WebSocket ping timeout after 119775 ms.
+[W 02:43:46.089 NotebookApp] WebSocket ping timeout after 119212 ms.
+[I 02:44:37.721 NotebookApp] Saving file at /Amirhossein Rajabi/PreProcessing Testing.ipynb
+[W 03:24:06.675 NotebookApp] WebSocket ping timeout after 119820 ms.
+[W 03:24:21.860 NotebookApp] WebSocket ping timeout after 119834 ms.
+[I 03:28:47.314 NotebookApp] 302 GET / (194.225.41.253) 3.22ms
+[I 03:28:47.759 NotebookApp] 302 GET / (194.225.41.253) 0.94ms
